@@ -11,6 +11,9 @@ Esta aplicación web permite a los usuarios experimentar con diferentes configur
 - 🔵 Dos entradas
 - 🔵 Tres entradas y sesgo
 
+## 🆕🌐 Acceso a la aplicación
+La aplicación web está disponible para su uso en la siguiente dirección: https://neurona-stremlit.streamlit.app sin necesidad de instalar nada.
+
 ## 🚀 Características
 
 - Interfaz de usuario intuitiva y amigable
@@ -18,9 +21,6 @@ Esta aplicación web permite a los usuarios experimentar con diferentes configur
 - Visualización inmediata de resultados
 - Diseño responsive y moderno
 - Tres modos diferentes de operación
-
-## 🌐 Acceso a la aplicación
-La aplicación web está disponible para su uso en la siguiente dirección: https://neurona-stremlit.streamlit.app Los usuarios pueden acceder a la aplicación desde cualquier navegador web moderno para experimentar con las diferentes configuraciones de la neurona artificial.
 
 ## 💻 Requisitos
 
