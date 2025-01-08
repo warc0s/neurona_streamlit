@@ -1,4 +1,4 @@
-# neurona_streamlit
+# Neurona-Streamlit
 Una aplicación interactiva desarrollada con Streamlit para explorar y entender el funcionamiento básico de una neurona artificial.
 
 ![Neurona Streamlit Logo](https://github.com/warc0s/neurona_streamlit/blob/main/logo.png?raw=true)
