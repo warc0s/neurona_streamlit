@@ -19,6 +19,9 @@ Esta aplicación web permite a los usuarios experimentar con diferentes configur
 - Diseño responsive y moderno
 - Tres modos diferentes de operación
 
+## 🌐 Acceso a la aplicación
+La aplicación web está disponible para su uso en la siguiente dirección: https://neurona-stremlit.streamlit.app Los usuarios pueden acceder a la aplicación desde cualquier navegador web moderno para experimentar con las diferentes configuraciones de la neurona artificial.
+
 ## 💻 Requisitos
 
 - Python 3.x
