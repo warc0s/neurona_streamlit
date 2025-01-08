@@ -1,6 +1,8 @@
 # neurona_streamlit
 Una aplicación interactiva desarrollada con Streamlit para explorar y entender el funcionamiento básico de una neurona artificial.
 
+![Neurona Streamlit Logo](https://github.com/warc0s/neurona_streamlit/blob/main/logo.png?raw=true)
+
 ## 📝 Descripción
 
 Esta aplicación web permite a los usuarios experimentar con diferentes configuraciones de una neurona artificial, visualizando cómo los pesos y sesgos afectan a su comportamiento. La aplicación incluye tres modos diferentes:
