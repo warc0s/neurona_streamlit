@@ -91,7 +91,6 @@ tab1, tab2, tab3 = st.tabs(["Una entrada", "Dos entradas", "Tres entradas y sesg
 
 # Pestaña 1: Una entrada
 with tab1:
-    st.markdown('<div class="neuron-container">', unsafe_allow_html=True)
     st.markdown("### Una neurona con una entrada y un peso")
     
     # Contenedor para el peso
@@ -118,7 +117,6 @@ with tab1:
 
 # Pestaña 2: Dos entradas
 with tab2:
-    st.markdown('<div class="neuron-container">', unsafe_allow_html=True)
     st.markdown("### Una neurona con dos entradas y dos pesos")
     
     col1, col2 = st.columns(2)
@@ -137,13 +135,12 @@ with tab2:
     
     if st.button("Calcular la salida", key="calc2"):
         weighted_sum = calculate_weighted_sum([input0, input1], [weight0, weight1])
-        st.write(f"**Suma Ponderada:** {weighted_sum}")
+        st.write(f"**Resultado de la Neurona:** {weighted_sum}")
     
     st.markdown('</div>', unsafe_allow_html=True)
 
 # Pestaña 3: Tres entradas y sesgo
 with tab3:
-    st.markdown('<div class="neuron-container">', unsafe_allow_html=True)
     st.markdown("### Una neurona con tres entradas y sesgo")
     
     col1, col2, col3 = st.columns(3)
